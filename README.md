@@ -1,4 +1,4 @@
-# 628_Final_Project
+# Audio Classifier Project
 
 source: https://www.tensorflow.org/tutorials/audio/simple_audio
 
